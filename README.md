@@ -1,5 +1,4 @@
 # kodluyoruzilkrepo
 "Kodluyoruz Eğitimi kapsamında açtığım ilk repo"
 
-Bu repo benim açtığım ilk repodur.
-kodluyrouz
+[Kodluyoruz Proje Resmim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
